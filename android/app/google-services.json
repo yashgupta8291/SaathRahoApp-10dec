@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809216786349",
+    "project_id": "sathrho",
+    "storage_bucket": "sathrho.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809216786349:android:5a83c40bbf98c7a77beb24",
+        "android_client_info": {
+          "package_name": "com.example.maan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwo5tjbFUqvimoZJe9usCeiQyT4ZbDFJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
